@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "govee-lan-control": "^3.0.0",
+    "node-irsdk-2021": "^0.0.1"
+  }
+}
